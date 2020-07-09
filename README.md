@@ -4,14 +4,16 @@ Gustavo da Silva <img src="https://github.com/gstvds/gstvds/blob/master/assets/m
 ### Hello World&nbsp;<img src="https://github.com/gstvds/gstvds/blob/master/assets/earth.gif" width="25px">
 
 <p>
-🖥️ I'm a JavaScript enthusiast that loves React and Node.js. My hobby is learn new technologies and use them to help people.
+👷‍♂️️ I'm a Chemical Engineering student at <a href="https://www2.ufscar.br/"><b>UFSCar</b></a> that loves coding.
+
+🖥️ JavaScript enthusiast that loves React and Node.js. My hobby is learn new technologies and use them to help people.
 
 💼️ I'm currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a full-stack developer! <img src="https://github.com/gstvds/gstvds/blob/master/assets/developer.gif" width="30px">
 
 Nice to meet you! 👋
 </p>
 
-### Contact Info&nbsp;<img src="https://github.com/gstvds/gstvds/blob/master/assets/contact.gif" width="25px">
+### Contact Info&nbsp;<img src="https://github.com/gstvds/gstvds/blob/master/assets/contact.gif" width="22px">
 
 <a href="mailto:gstvds@icloud.com"><img src="https://github.com/gstvds/gstvds/blob/master/assets/gmail.svg" width="25px"></a>
 <a href="https://www.linkedin.com/in/gstvds/"><img src="https://github.com/gstvds/gstvds/blob/master/assets/linkedin.svg" width="25px"></a>
