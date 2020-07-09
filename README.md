@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, dev 💻️
+
+🖥️ I'm a JavaScript enthusiast that loves React and Node.js. My hobby is learn new technologies and use them to help people.
+
+💼️ I'm currently working at [@fluke](https://github.com/fluketmc) as a full-stack developer! Fell free to send me an [email 📫](mailto:gstvds@icloud.com) or a message on [LinkedIn](https://www.linkedin.com/in/gstvds/).
+
+Nice to meet you! 👋
 
 <!--
 **gstvds/gstvds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
