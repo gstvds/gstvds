@@ -8,16 +8,22 @@ Gustavo da Silva <img src="https://github.com/gstvds/gstvds/blob/master/assets/m
 
 🖥️ JavaScript enthusiast that loves React and Node.js. My hobby is learn new technologies and use them to help people.
 
-💼️ I'm currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a full-stack developer! <img src="https://github.com/gstvds/gstvds/blob/master/assets/developer.gif" width="30px">
+💼️ Currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a full-stack developer! <img src="https://github.com/gstvds/gstvds/blob/master/assets/developer.gif" width="30px">
 
 Nice to meet you! 👋
 </p>
 
-### Contact Info&nbsp;<img src="https://github.com/gstvds/gstvds/blob/master/assets/contact.gif" width="22px">
+### Contact Info&nbsp;<img src="https://github.com/gstvds/gstvds/blob/master/assets/contact.gif" width="35px">
 
-<a href="mailto:gstvds@icloud.com"><img src="https://github.com/gstvds/gstvds/blob/master/assets/gmail.svg" width="25px"></a>
-<a href="https://www.linkedin.com/in/gstvds/"><img src="https://github.com/gstvds/gstvds/blob/master/assets/linkedin.svg" width="25px"></a>
-<a href="https://instagram.com/gstvds"><img src="https://github.com/gstvds/gstvds/blob/master/assets/instagram.svg" width="25px"></a>
+<a href="mailto:gstvds@icloud.com">
+  <img align="left" src="https://github.com/gstvds/gstvds/blob/master/assets/gmail.svg" width="25px">
+</a>
+<a href="https://www.linkedin.com/in/gstvds/">
+  <img align="left" src="https://github.com/gstvds/gstvds/blob/master/assets/linkedin.svg" width="25px">
+</a>
+<a href="https://instagram.com/gstvds">
+  <img align="left" src="https://github.com/gstvds/gstvds/blob/master/assets/instagram.svg" width="25px">
+</a>
 
 <!--
 **gstvds/gstvds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
