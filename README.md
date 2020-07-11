@@ -1,5 +1,9 @@
 Gustavo da Silva <img src="https://github.com/gstvds/gstvds/blob/master/assets/mario.gif" width="35px">
 --
+[![Twitter Badge](https://img.shields.io/badge/-@gstvdss-7dabf5?style=flat-square&labelColor=7dabf5&logo=twitter&logoColor=white&link=https://twitter.com/gstvdss)](https://twitter.com/gstvdss)
+[![Instagram Badge](https://img.shields.io/badge/-gstvds-7dabf5?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/gstvds)](https://instagram.com/gstvds)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Silva-7dabf5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvds/)](https://www.linkedin.com/in/gstvds/)
+[![Gmail Badge](https://img.shields.io/badge/-gstvds@icloud.com-7dabf5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gstvds@icloud.com)](mailto:gstvds@icloud.com)
 
 ### Hello World&nbsp;<img src="https://github.com/gstvds/gstvds/blob/master/assets/earth.gif" width="25px">
 
@@ -12,18 +16,6 @@ Gustavo da Silva <img src="https://github.com/gstvds/gstvds/blob/master/assets/m
 
 Nice to meet you! 👋
 </p>
-
-### Contact Info&nbsp;<img src="https://github.com/gstvds/gstvds/blob/master/assets/contact.gif" width="35px">
-
-<a href="mailto:gstvds@icloud.com">
-  <img align="left" src="https://github.com/gstvds/gstvds/blob/master/assets/gmail.svg" width="25px">
-</a>
-<a href="https://www.linkedin.com/in/gstvds/">
-  <img align="left" src="https://github.com/gstvds/gstvds/blob/master/assets/linkedin.svg" width="25px">
-</a>
-<a href="https://instagram.com/gstvds">
-  <img align="left" src="https://github.com/gstvds/gstvds/blob/master/assets/instagram.svg" width="25px">
-</a>
 
 <!--
 **gstvds/gstvds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
