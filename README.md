@@ -32,10 +32,6 @@
 </div>
 
 </p>
-</br>
-<h3><strong>Spotify Playing</strong></h3>
-
-[![Spotify](https://gstvds.vercel.app/api/spotify)](https://open.spotify.com/user/h0gmgqqh4xwiqrg9v1a2yzn9c)
 
 <!--
 **gstvds/gstvds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
