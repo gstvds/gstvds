@@ -11,7 +11,7 @@
 
 - 🖥️ JavaScript enthusiast that loves React Native and Node.js. My hobby is learn new technologies and use them to help people.
 
-- 💼️ Currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a full-stack developer! <img src="https://github.com/gstvds/gstvds/blob/master/assets/developer.gif" width="30px">
+- 💼️ Currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a full-stack developer! <img src="https://github.com/gstvds/gstvds/blob/main/assets/developer.gif" width="30px">
 
 </p>
 
