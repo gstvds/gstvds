@@ -1,40 +1,34 @@
-<h2><strong>Hi there, I'm Gustavo</strong></h2>
+## Hi there, I'm Gustavo
 
-[![Twitter Badge](https://img.shields.io/badge/-@gstvdss-BD93F9?style=flat-square&labelColor=BD93F9&logo=twitter&logoColor=white&link=https://twitter.com/gstvdss)](https://twitter.com/gstvdss)
-[![Instagram Badge](https://img.shields.io/badge/-gstvds-BD93F9?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/gstvds)](https://instagram.com/gstvds)
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Silva-BD93F9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvds/)](https://www.linkedin.com/in/gstvds/)
-[![Gmail Badge](https://img.shields.io/badge/-gstvds@icloud.com-BD93F9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gstvds@icloud.com)](mailto:gstvds@icloud.com)
+### 📱 Connect with Me
+
+[![Twitter Badge](https://img.shields.io/badge/-@gstvdss-ff79c6?style=flat-square&labelColor=ff79c6&logo=twitter&logoColor=white&link=https://twitter.com/gstvdss)](https://twitter.com/gstvdss)
+[![Instagram Badge](https://img.shields.io/badge/-gstvds-ff79c6?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/gstvds)](https://instagram.com/gstvds)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Silva-ff79c6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvds/)](https://www.linkedin.com/in/gstvds/)
+[![Gmail Badge](https://img.shields.io/badge/-gstvds@icloud.com-ff79c6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gstvds@icloud.com)](mailto:gstvds@icloud.com)
+
+### 🧔🏾‍♂️ About Me
 
 <p>
 
-- 👷‍♂️️ I'm a Chemical Engineering student at <a href="https://www2.ufscar.br/"><b>UFSCar</b></a> that loves coding.
+👷‍♂️️  I'm a Chemical Engineering student at <a href="https://www2.ufscar.br/"><b>UFSCar</b></a> that loves coding.
 
-- 🖥️ JavaScript enthusiast that loves React Native and Node.js. My hobby is learn new technologies and use them to help people.
+🖥️  JavaScript enthusiast that loves React Native and Node.js. My hobby is learn new technologies and use them to help people.
 
-- 💼️ Currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a full-stack developer! <img src="https://github.com/gstvds/gstvds/blob/main/assets/developer.gif" width="30px">
+👨🏾‍💻  Currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a Tech Lead!
 
 </p>
+  
+### ⚙️ Analytics
 
-<p>
-<h2><strong>Languages and tools</strong></h2>
+<p align="center">
 
-<h3>Knowledge</h3>
-
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" width="30px"></code> React Native 
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30px"></code> Node.js 
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px"></code> JavaScript 
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="30px"></code> TypeScript 
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30px"></code> Firebase 
-
-<h3>Learning</h3>
-
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code> Swift
-
-<h3>Interests</h3>
-
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> Flutter 
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code> Go 
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> Docker 
-<code><img height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code> K8S 
+  <a href="https://github.com/gstvds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gstvds&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=dracula"/> 
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gstvds&theme=dracula&hide_border=true&background=1a1b27"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gstvds&margin-w=10&no-frame=true&row=1&theme=dracula"/>
+  </a>
 
 </p>
