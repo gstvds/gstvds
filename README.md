@@ -15,7 +15,7 @@
 
 🖥️  JavaScript enthusiast that loves React Native and Node.js. My hobby is learn new technologies and use them to help people.
 
-👨🏾‍💻  Currently working at <a href="https://github.com/fluketmc"><b>@fluketmc</b></a> as a Tech Lead!
+👨🏾‍💻  Currently working at <a href="https://unifique.com.br/"><b>@unifique</b></a> as a Software Engineer Specialist/Tech Lead!
 
 </p>
   
