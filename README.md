@@ -2,10 +2,10 @@
 
 ### 📱 Connect with Me
 
-[![Twitter Badge](https://img.shields.io/badge/-@gstvdss-ff79c6?style=flat-square&labelColor=ff79c6&logo=twitter&logoColor=white&link=https://twitter.com/gstvdss)](https://twitter.com/gstvdss)
-[![Instagram Badge](https://img.shields.io/badge/-gstvds-ff79c6?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/gstvds)](https://instagram.com/gstvds)
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Silva-ff79c6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvds/)](https://www.linkedin.com/in/gstvds/)
-[![Gmail Badge](https://img.shields.io/badge/-gstvds@icloud.com-ff79c6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gstvds@icloud.com)](mailto:gstvds@icloud.com)
+[![Twitter Badge](https://img.shields.io/badge/-@gstvdss-69D1F8?style=flat-square&labelColor=69D1F8&logo=twitter&logoColor=white&link=https://twitter.com/gstvdss)](https://twitter.com/gstvdss)
+[![Instagram Badge](https://img.shields.io/badge/-gstvds-69D1F8?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/gstvds)](https://instagram.com/gstvds)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Silva-69D1F8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gstvds/)](https://www.linkedin.com/in/gstvds/)
+[![Gmail Badge](https://img.shields.io/badge/-gstvds@icloud.com-69D1F8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gstvds@icloud.com)](mailto:gstvds@icloud.com)
 
 ### 🧔🏾‍♂️ About Me
 
