@@ -11,11 +11,11 @@
 
 <p>
 
-👷‍♂️️  I'm a Chemical Engineering student at <a href="https://www2.ufscar.br/"><b>UFSCar</b></a> that loves coding.
+👷‍♂️️  I'm a Computer Science student at UAM that loves coding.
 
 🖥️  JavaScript enthusiast that loves React Native and Node.js. My hobby is learn new technologies and use them to help people.
 
-👨🏾‍💻  Currently working at <a href="https://unifique.com.br/"><b>@unifique</b></a> as a Software Engineer Specialist/Tech Lead!
+👨🏾‍💻  Currently working at <a href="https://unifique.com.br/"><b>@unifique</b></a> as a Senior Software Engineer/Tech Lead!
 
 </p>
   
